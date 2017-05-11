@@ -1,0 +1,7 @@
+Django
+gunicorn
+supervisor
+django-material
+django-crontab
+pandas==0.19.2
+pandas-datareader
